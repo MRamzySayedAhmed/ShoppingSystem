@@ -14,9 +14,7 @@ It’s a Fully Responsive Customers to Customers (C2C) E-Commerce System.
 
 # The Used Technologies
 * HTML
-* HTML5
 * CSS
-* CSS3
 * Font Awesome CSS Library
 * JavaScript
 * Nice Scroll JS Plugin
